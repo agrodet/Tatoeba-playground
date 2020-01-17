@@ -49,7 +49,7 @@ get_sentences(word, sentences)  <-- No need to modify this
 ```
 
 ### Is the data from Tatoeba used in the playground always from the latest weekly download?
-Yes. But there might be a few days' delay. Tatoeba exports its data on Saturday morning 9:00 G.M.T., so expect the playground to be updated between that time and the next Monday morning.
+Yes. But there might be a few days' delay. Tatoeba exports its data on Saturday morning 06:00 UTC, so expect the playground to be updated between that time and the next Monday morning.
 
 ### I've noticed a "Trusted" setting. I don't feel like trusting something I don't understand.
 In general, (local) Jupyter notebooks open in the user's browser and can therefore pose a security threat. That setting is to prevent (malicious) code from running on the user's local machine without their consent. It would take a while to explain, but you can find more information in the [Jupyter documentation](https://jupyter-notebook.readthedocs.io/en/latest/security.html). However, the playground's notebooks do not run on your local machine, but inside a container provided by binder. Therefore, you do not have to worry about trusting the notebook or anything else. You can safely run anything inside a closed environment.  
