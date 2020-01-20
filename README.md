@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fagrodet%2FTatoeba-playground%2Fmaster/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agrodet/Tatoeba-playground/master)
 # Tatoeba-playground
 
 Tatoeba playground is an environment developed to help people with or without programming knowledge explore data provided by [Tatoeba](https://tatoeba.org).
