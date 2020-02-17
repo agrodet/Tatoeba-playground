@@ -218,6 +218,7 @@ alt	3	diluzmani
 alt	2	tuo	
 alt	1	dilogrencisi	I have a basic knowledge of it.
 alt	1	Helenturk	
+alt	\N	Conlanger	
 alt	\N	yak	curious about sound - interested in audio
 amh	5	anaan	
 amh	5	debebe	
@@ -1205,7 +1206,6 @@ ara	\N	MOHAMMEDELHASNAOUY
 ara	\N	mr_vile	
 ara	\N	najiali	
 ara	\N	obeda	
-ara	\N	Pandaa	0
 ara	\N	paperplane	
 ara	\N	Scripture	
 ara	\N	tking1917	
@@ -1252,6 +1252,7 @@ arq	4	Sabe
 arq	4	Sammer	
 arq	4	Xudir06	
 arq	4	yeghmorassen	
+arq	3	kopplex	
 arq	3	nabil509	
 arq	3	Nunur	Family speaking both Kabyle and Central-North Algerian Deridja. Hearing it a lot but not speaking it that much.
 arq	3	Ubezwi1	
@@ -1429,6 +1430,7 @@ aze	1	Towhidn
 aze	0	Morkus	
 aze	0	OlgaMarianna	
 aze	\N	azarbeycan	
+aze	\N	Conlanger	
 aze	\N	henry13	
 aze	\N	Ricardo14	
 aze	\N	SadeceTurkce	
@@ -1453,6 +1455,7 @@ bak	1	RRGaneyev
 bak	0	666	
 bak	0	Copyrkina	
 bak	\N	Balamax	
+bak	\N	Conlanger	
 bak	\N	SadeceTurkce	
 bak	\N	selimcan	
 bak	\N	yak	curious about sound - interested in audio
@@ -1639,6 +1642,7 @@ ber	5	kbaaziz
 ber	5	khodiroo	
 ber	5	kimou	
 ber	5	Koceila	Algérie, Kabyle, Chawi
+ber	5	kopplex	
 ber	5	LamiaImen1	
 ber	5	lydiadida	
 ber	5	Madanim	
@@ -1754,6 +1758,7 @@ bos	5	iwasinabadway
 bos	5	meme2	
 bos	5	NadiaMar	
 bos	5	Polygot99	Twenty-eighth language. I was reading a news article about the Bosnian crisis, and decided it would be good to learn some languages from war-torn places. This started a long series of learning many languages from war-torn places.
+bos	5	Tamara_eM	
 bos	5	WentBerzerk	
 bos	4	Kaske	
 bos	4	ksolina	
@@ -2083,6 +2088,7 @@ ces	5	krtek
 ces	5	krystof	
 ces	5	kubikula56	
 ces	5	Libor	
+ces	5	LiborSupcik	
 ces	5	lipao	Sekve certgrada kompreno de aliaj slavaj lingvoj.
 ces	5	lovermann	
 ces	5	Luktr24	
@@ -2257,6 +2263,7 @@ chv	1	lotfulla
 chv	0	astru	
 chv	0	turan	
 chv	\N	AqQoyriq_1	
+chv	\N	Conlanger	
 chv	\N	DetErMinNavn	
 chv	\N	yak	curious about sound - interested in audio
 cjy	5	1355811536	
@@ -2358,6 +2365,7 @@ cjy	5	vivianjin
 cjy	5	wakeng	
 cjy	5	xiaojianjian	
 cjy	5	xinlijie	
+cjy	5	yinhou	
 cjy	5	zero1386	
 cjy	3	ShanShan	
 cjy	2	phenomenol	
@@ -2636,6 +2644,8 @@ cmn	5	sirius_qinyu
 cmn	5	sissima	
 cmn	5	Skillwiki	Cette compétence correspond à celle d'un groupe de traducteurs natifs
 cmn	5	skntm1215	
+cmn	5	slo_oth	
+cmn	5	slooth	
 cmn	5	SnowWalkerJ	
 cmn	5	sodajuice	
 cmn	5	SofiaLee	Taiwan
@@ -2808,6 +2818,7 @@ cmn	3	maizewen
 cmn	3	mao	
 cmn	3	mavaddat	
 cmn	3	menyo	
+cmn	3	mochico	
 cmn	3	momowuwen	HSK4 - 在准备考HSK5级
 cmn	3	Mrew2Vier	
 cmn	3	nihaojet	
@@ -3217,6 +3228,7 @@ cmn	1	Marinapaolucci
 cmn	1	mariposa1	
 cmn	1	mark42	
 cmn	1	Marrccinn1013	
+cmn	1	masgun13	
 cmn	1	maxkoryukov	
 cmn	1	MB86	
 cmn	1	mekyu	
@@ -3317,6 +3329,7 @@ cmn	1	Umino
 cmn	1	unclejasper	
 cmn	1	unphono	
 cmn	1	Uwuchan	
+cmn	1	valhentai	
 cmn	1	verdakoro	
 cmn	1	vgray	
 cmn	1	vico	
@@ -3394,6 +3407,7 @@ cmn	0	morel
 cmn	0	mugdul	
 cmn	0	Neristranna	
 cmn	0	Ninja	
+cmn	0	Pandaa	15
 cmn	0	pandark	
 cmn	0	pavyseljirna	
 cmn	0	PentheusPuddleglum	
@@ -3440,7 +3454,6 @@ cmn	\N	liujunyi
 cmn	\N	Makiyia	
 cmn	\N	Max_San	
 cmn	\N	mr_vile	
-cmn	\N	Pandaa	15
 cmn	\N	patricedenis	
 cmn	\N	qularx	
 cmn	\N	Renzonokuken	My ancestor's language
@@ -3471,6 +3484,7 @@ cpi	5	huangtatoeba
 cpi	5	kinmarthandbagsco	
 cpi	5	lipstickpencils	
 cpi	5	mouldbumper	
+cpi	5	raymondzhouyeung	
 cpi	5	workplatform	
 cpi	\N	naurugott	
 cpi	\N	Rebuson	
@@ -3496,6 +3510,7 @@ crh	1	Uzosis
 crh	0	Arslan	
 crh	0	tikan0	
 crh	\N	Balamax	
+crh	\N	Conlanger	
 crh	\N	DetErMinNavn	
 csb	4	RadzieckiFuteral	
 csb	3	Piteris	
@@ -3536,6 +3551,7 @@ cym	1	ellenkeyne	I began studying Welsh in college and picked it up again recent
 cym	1	FarOffMontreal	
 cym	1	Garry_Evans	
 cym	1	Gulliver	
+cym	1	Hugh16	
 cym	1	Joutsentaika	still dithering about whether to fix on NW or SW
 cym	1	Konkufeisu	
 cym	1	Monty	
@@ -3693,13 +3709,12 @@ dan	0	maaster
 dan	0	rccg	
 dan	0	User73201	
 dan	0	zimzam	
-dan	\N	Conlanger	
 dan	\N	DanielDaniel	
 dan	\N	erayveavci	
 dan	\N	herrsilen	
+dan	\N	Ivanovb	хе-хе:)
 dan	\N	kippari	The same as with written Norwegian.
 dan	\N	mr_vile	
-dan	\N	Pandaa	0
 dan	\N	Rwmpelstilzchen	
 dan	\N	Svalbard	
 dan	\N	tuvecino	
@@ -3869,6 +3884,7 @@ deu	5	Felixjp
 deu	5	felshoff	
 deu	5	fenris	
 deu	5	feyzo	
+deu	5	ffmp	
 deu	5	Finolia	
 deu	5	firmian	
 deu	5	flo	
@@ -4131,7 +4147,7 @@ deu	5	Peter_Herdt
 deu	5	PeterKirsch	
 deu	5	Petervonins	Schweiz
 deu	5	pfa511	
-deu	5	Pfirsichbaeumchen	Meie, dîn liehter schîn/und diu kleinen vogelîn/bringent vröuden vollen schrîn/daz si willekomen sîn!/Ich bin an den vröuden mîn/mit der wërlde kranc.
+deu	5	Pfirsichbaeumchen	Meie, dîn liehter schîn/und diu kleinen vogelîn/bringent vröudenvollen schrîn/daz si willekomen sîn!/Ich bin an den vröuden mîn/mit der wërlde kranc.
 deu	5	Phxstick	
 deu	5	Pieceok	
 deu	5	pinky	
@@ -4194,6 +4210,7 @@ deu	5	Silli
 deu	5	simon86m	
 deu	5	SimonKlein	
 deu	5	Sirio60	Praktisch meine zweite Muttersprache (in der Schweiz aufgewachsen).
+deu	5	Skaljas	
 deu	5	Skillwiki	Cette compétence correspond à celle d'un groupe de traducteurs natifs
 deu	5	sKy_	I am from Germany so of course German is my native language。
 deu	5	smichalek	
@@ -4226,6 +4243,7 @@ deu	5	Tarnung
 deu	5	tarsier	
 deu	5	taskbase	
 deu	5	Tatort	
+deu	5	tcp7	
 deu	5	Tepan	
 deu	5	terpent	
 deu	5	Tesorium	
@@ -4717,6 +4735,7 @@ deu	3	Swetlanaw
 deu	3	Swift	
 deu	3	szaby78	
 deu	3	taha	
+deu	3	Tamara_eM	
 deu	3	tamas100	
 deu	3	tarekamer	
 deu	3	tatianangel	
@@ -4880,6 +4899,7 @@ deu	2	Dewald
 deu	2	Diablofire	
 deu	2	diana_brain	
 deu	2	diasiab	
+deu	2	diegoacc	
 deu	2	diegohn	
 deu	2	dif1754	
 deu	2	diLesnock	
@@ -5073,6 +5093,7 @@ deu	2	LeFaune	It was never an easy one for me. I'm never totally lost but it's a
 deu	2	legalghost	
 deu	2	lentlby	
 deu	2	lgrande	
+deu	2	LiborSupcik	
 deu	2	LinguisticFusion	
 deu	2	linkmauve	
 deu	2	liquidvittles	
@@ -5511,6 +5532,7 @@ deu	1	Eder_lima
 deu	1	EK	
 deu	1	Eledefe	
 deu	1	ElenaZ	
+deu	1	Elfa1959	
 deu	1	EmmaTeddi	
 deu	1	epitsin	
 deu	1	erdalcay07	
@@ -5783,6 +5805,7 @@ deu	1	ouitroisheures19
 deu	1	overlordwhale	
 deu	1	Pablomestre1965	
 deu	1	pancelot	
+deu	1	Pandaa	0
 deu	1	panni	
 deu	1	paola_plata	
 deu	1	papersaltserver	
@@ -6131,6 +6154,7 @@ deu	0	yura798261
 deu	0	Yuuki	
 deu	0	zakhira	
 deu	\N	\N	
+deu	\N	adl	
 deu	\N	alexandergert	
 deu	\N	ALLEN_2016	
 deu	\N	Almi92	
@@ -6168,7 +6192,6 @@ deu	\N	model
 deu	\N	mr_vile	
 deu	\N	mraz	
 deu	\N	not_yet	
-deu	\N	Pandaa	0
 deu	\N	PERCE_NEIGE	
 deu	\N	Pino	
 deu	\N	rmateo	
@@ -6366,7 +6389,6 @@ ell	1	morel
 ell	1	MTC	
 ell	1	natell	
 ell	1	nimfeo	Aŭtodidakte studita kaj plu studata
-ell	1	nonong	
 ell	1	Oblomov	
 ell	1	oelrekab2	
 ell	1	otherwise	
@@ -6406,7 +6428,6 @@ ell	0	vitorsemc
 ell	0	wyzrouixs	
 ell	\N	alejopk	
 ell	\N	Almi92	
-ell	\N	Conlanger	
 ell	\N	cykel	
 ell	\N	kotik	
 ell	\N	marvinibahs	
@@ -6616,6 +6637,7 @@ eng	5	AliBeadle
 eng	5	alicam1010	
 eng	5	alicemass	
 eng	5	aliciabowman	
+eng	5	aliraja	
 eng	5	alirezamdv	
 eng	5	alishalikescats	
 eng	5	Alkrasnov	
@@ -6700,6 +6722,7 @@ eng	5	annep
 eng	5	annettethompson69	
 eng	5	AnneWy	
 eng	5	AnnieLouisa	
+eng	5	AnnieStone	
 eng	5	annvaio413	
 eng	5	anogashy	
 eng	5	anrialach	
@@ -6714,6 +6737,7 @@ eng	5	ApioDelPueblo
 eng	5	appalmighty	
 eng	5	aracademics	
 eng	5	Aralox	
+eng	5	arcanewaif	
 eng	5	Archaejon	
 eng	5	architerrainc	
 eng	5	Ardith	
@@ -6887,6 +6911,7 @@ eng	5	billt_estates
 eng	5	BillyLancing1542	
 eng	5	billyuf	UK
 eng	5	Bimzy	
+eng	5	binkyspace	
 eng	5	birdtree	
 eng	5	Biscuit1	
 eng	5	bithijacker	
@@ -6977,6 +7002,7 @@ eng	5	ByteCarp
 eng	5	byteknack	
 eng	5	c1o1l1i1n1a1	
 eng	5	Ca1zon	
+eng	5	caaperezag	
 eng	5	Caecilius	
 eng	5	cafeclimate	
 eng	5	cafulur	I know English and different slangs and dialects, primarily Southern.
@@ -7510,6 +7536,7 @@ eng	5	eleccar
 eng	5	Electr0cuted	
 eng	5	electronic	
 eng	5	Elenia	
+eng	5	Elfa1959	
 eng	5	elginremovals	
 eng	5	elifmert	
 eng	5	Elijah	
@@ -7677,6 +7704,7 @@ eng	5	Florida53
 eng	5	flosincapite	
 eng	5	flowersdeliverymanil	
 eng	5	fluffyUser	
+eng	5	FluxDGTL01	
 eng	5	FlyWaysArgentina	
 eng	5	follyfudgel	
 eng	5	fondonlog	
@@ -7701,6 +7729,7 @@ eng	5	frankiebluej
 eng	5	FranklinChen	United States. Grew up in New York, New Jersey, Michigan, currently live in Pittsburgh.
 eng	5	fraserbatts	
 eng	5	fraxinus	
+eng	5	fred48	
 eng	5	freddy6122	
 eng	5	fredsticks	
 eng	5	fredwhyte	
@@ -7768,6 +7797,7 @@ eng	5	geofmatthews
 eng	5	Gepardo	
 eng	5	Gerund	
 eng	5	GetEssay	
+eng	5	ghaith_Riyadh	
 eng	5	ghajn97	
 eng	5	GheeUp	
 eng	5	Ghost	Wisconsin, United States. Native language.
@@ -7862,6 +7892,7 @@ eng	5	Gyrothesia
 eng	5	h84488345	
 eng	5	hadawayman	
 eng	5	hadoken	
+eng	5	HadziJo	
 eng	5	haelen	
 eng	5	haeri	Australia
 eng	5	haeundaeroom	
@@ -7913,6 +7944,7 @@ eng	5	haziqmir
 eng	5	hb20007	
 eng	5	heelshop24	
 eng	5	heidilooney	
+eng	5	Heisenberg	
 eng	5	heiwaheaven	
 eng	5	Helend269	
 eng	5	HelioA	
@@ -7965,6 +7997,7 @@ eng	5	homelyspace
 eng	5	homsar	
 eng	5	honeygod	
 eng	5	Hongbao	
+eng	5	hongjilock	
 eng	5	honmanilawson1	
 eng	5	honorebalzac	
 eng	5	hoodcleaningservices	
@@ -7978,6 +8011,7 @@ eng	5	hszilvia
 eng	5	HTuttle	
 eng	5	hudibras	
 eng	5	hug_wolf	
+eng	5	Hugh16	
 eng	5	HughNorris	
 eng	5	hulananni	
 eng	5	hullanta	
@@ -8629,6 +8663,7 @@ eng	5	lhanson
 eng	5	Li85	United Kingdom 
 eng	5	LiamMacGregor	
 eng	5	liamy	British English
+eng	5	LiborSupcik	some Irish slang
 eng	5	liekrawr	Southern USA
 eng	5	lifelovelang	
 eng	5	ligander	
@@ -8703,6 +8738,7 @@ eng	5	LukuTesau
 eng	5	Luminous	
 eng	5	lumo5	
 eng	5	LunaMare	
+eng	5	lunaparkic	
 eng	5	lunarr	
 eng	5	Lunarwolf	
 eng	5	lunchmeat317	
@@ -9540,6 +9576,7 @@ eng	5	Robertchanger
 eng	5	RobertFinn	
 eng	5	robertmmartin	
 eng	5	robertpace	
+eng	5	robertsnickens	
 eng	5	robo731	
 eng	5	robot_fury	
 eng	5	rodbswxe	
@@ -9825,6 +9862,7 @@ eng	5	smcder
 eng	5	smclemon	
 eng	5	smokecity	
 eng	5	smomo	
+eng	5	Smorrs	US (Columbus, Ohio)
 eng	5	Smrinaldi77	
 eng	5	smwxford	
 eng	5	Snake	
@@ -9895,6 +9933,7 @@ eng	5	standwave
 eng	5	staram	
 eng	5	Starfightermars	
 eng	5	StariyRefur	
+eng	5	stasolocksmith	
 eng	5	Statrader	
 eng	5	steaje82	
 eng	5	SteCymru14	
@@ -10016,6 +10055,7 @@ eng	5	tbokes
 eng	5	tbrown	
 eng	5	tcobb	
 eng	5	Tcon260	
+eng	5	tcp7	American English
 eng	5	tdmath	
 eng	5	tdmurfin	
 eng	5	TeacherJohnny	
@@ -10825,7 +10865,6 @@ eng	4	clmrh
 eng	4	cmg	
 eng	4	codl	
 eng	4	Colony88	
-eng	4	Conlanger	
 eng	4	Connum	British English
 eng	4	consultjohan	
 eng	4	coobit	
@@ -10897,6 +10936,7 @@ eng	4	DianaGermanio
 eng	4	Dickerreading	
 eng	4	Didier08	
 eng	4	diecidieci	
+eng	4	diegoacc	
 eng	4	diegocas33	
 eng	4	diegohn	
 eng	4	dif1754	
@@ -11032,6 +11072,7 @@ eng	4	fescil	Majoring in English
 eng	4	Feyza	
 eng	4	Fhaubert	
 eng	4	filidoser	
+eng	4	filipe1238	
 eng	4	Finolia	
 eng	4	Fireblade75	
 eng	4	FixKey	
@@ -11265,6 +11306,7 @@ eng	4	jberkel
 eng	4	JeanM	Near-native, British (RP)
 eng	4	JeanMtl	
 eng	4	Jennyh	
+eng	4	Jepang	
 eng	4	jesusesparis	
 eng	4	jf200399	
 eng	4	jfvirey	
@@ -11321,6 +11363,7 @@ eng	4	Jutka2000
 eng	4	JWeighardt	
 eng	4	jyarold	
 eng	4	jyklone	
+eng	4	jyostna	
 eng	4	Kaa938637	
 eng	4	kaaay	
 eng	4	kabbuk	
@@ -11385,6 +11428,7 @@ eng	4	Komorebi
 eng	4	KonstantinLukas	certified C2 level user; took CPE in 2017; I really appreciate English for its humor
 eng	4	Konzard	USA
 eng	4	Kooko_smile	
+eng	4	kopplex	
 eng	4	Korydween	
 eng	4	Kotaman	
 eng	4	Kotolegokot	
@@ -12073,6 +12117,7 @@ eng	4	sissima
 eng	4	SithVicious	
 eng	4	Sittelle	
 eng	4	sjaelsamlaren	
+eng	4	Skaljas	
 eng	4	Skazo4nik	
 eng	4	skhole	
 eng	4	skilsholm	UK
@@ -12163,6 +12208,7 @@ eng	4	talbotseb
 eng	4	Taleel	
 eng	4	talvipuutarha	
 eng	4	Tamaneesha	
+eng	4	Tamara_eM	
 eng	4	Tamy	
 eng	4	Taner	
 eng	4	tarekamer	
@@ -12233,6 +12279,7 @@ eng	4	Translingual
 eng	4	tresoldi	
 eng	4	trieuho	
 eng	4	Trillian	
+eng	4	Trinkschokolade	
 eng	4	Tsar_Lyagushka	Appris au cours de mes études + 18 ans d'auto-didacte / Learnt during my studies + Self-taught for 18 years.
 eng	4	tsayng	
 eng	4	tt	
@@ -12267,6 +12314,7 @@ eng	4	Valentine	American
 eng	4	valered	
 eng	4	valeriadepaiva	
 eng	4	VALERIEparle	
+eng	4	valhentai	
 eng	4	Valodnieks	
 eng	4	ValRoman	
 eng	4	veganesta	
@@ -13364,6 +13412,7 @@ eng	3	PaMa
 eng	3	Pandaaylar	
 eng	3	panni	
 eng	3	pantacuzino	
+eng	3	pantalaimon	
 eng	3	Pantelis	
 eng	3	paola_plata	
 eng	3	Papadiamantopoulos	
@@ -13665,7 +13714,6 @@ eng	3	tornado
 eng	3	tras	
 eng	3	Trebalor	
 eng	3	triantafillou	
-eng	3	Trinkschokolade	
 eng	3	trochal	
 eng	3	Trost	
 eng	3	trotter	
@@ -13876,6 +13924,7 @@ eng	2	Andrea11
 eng	2	andrea176	
 eng	2	Andreacozzolino	
 eng	2	AndrePaulo	
+eng	2	AndyC	
 eng	2	anelmad	
 eng	2	angelhrnnd	
 eng	2	Angelo_c59	
@@ -14462,6 +14511,7 @@ eng	2	mahmoud20	usa
 eng	2	maisaaguiars	
 eng	2	Makuhari	
 eng	2	malloc	
+eng	2	Manezoid_PQP	
 eng	2	maninder	
 eng	2	manou85	
 eng	2	maqnus	
@@ -14613,6 +14663,7 @@ eng	2	palskaya
 eng	2	palviktor	
 eng	2	pamelice	
 eng	2	pancelot	
+eng	2	Pandaa	106
 eng	2	PARKER33	
 eng	2	passendida	
 eng	2	pastelite	
@@ -15404,6 +15455,7 @@ eng	0	YRCB
 eng	\N	934192903d	
 eng	\N	Abdelrheim	
 eng	\N	aboalfeda	
+eng	\N	adl	
 eng	\N	Aek	
 eng	\N	ahmed123	
 eng	\N	Alex62D	
@@ -15434,6 +15486,7 @@ eng	\N	bpinoy
 eng	\N	BSanswrang	
 eng	\N	CA	
 eng	\N	capcus	
+eng	\N	Capistrano	
 eng	\N	Carmelo	
 eng	\N	cengiz	
 eng	\N	cinedicted	
@@ -15522,7 +15575,6 @@ eng	\N	nkzsuzsa
 eng	\N	OSEN	
 eng	\N	P24L	
 eng	\N	pamelajqualls	
-eng	\N	Pandaa	96
 eng	\N	paperplane	
 eng	\N	papy95	
 eng	\N	patrickhofmann2001	
@@ -15542,6 +15594,8 @@ eng	\N	sayeedadil
 eng	\N	seveleu_dubrovnik	
 eng	\N	shimaa	
 eng	\N	Shoug	Saudi Arabia 
+eng	\N	slo_oth	
+eng	\N	slooth	
 eng	\N	soliloquist	
 eng	\N	spontaliku	
 eng	\N	stefan300	
@@ -16322,6 +16376,7 @@ epo	0	Tomash	Beginnings
 epo	0	U2FS	
 epo	0	VanadiumV	Some knowledge but not much...
 epo	0	YasinLa	
+epo	\N	adl	
 epo	\N	amir_fekri	
 epo	\N	AqQoyriq_1	
 epo	\N	capcus	
@@ -16402,7 +16457,6 @@ est	0	Konkufeisu
 est	0	Ricardo14	
 est	0	SirNigel	
 est	\N	astru	
-est	\N	Conlanger	
 est	\N	SadeceTurkce	
 est	\N	Svalbard	
 eus	5	2013ik65	
@@ -16721,7 +16775,7 @@ fin	1	FarOffMontreal
 fin	1	Faune	
 fin	1	gabyde	
 fin	1	gmed	
-fin	1	Gulo_Luscus	This is the next foreign language I want to learn. There are lots of reasons such as my idea of living in Finland and many more. I have a different kind of interest for Finnish history, especially for its war history. I used to add Turkish translations to Finnish sentences as well as I create Finlanders' Turkish pages on Wikipedia.\
+fin	1	Gulo_Luscus	This is the next foreign language I want to learn. There are lots of reasons such as my idea of living in Finland and many more. I have a different kind of interest for Finnish history, especially for its war history. I used to add Turkish translations to Finnish sentences as well as I created Finlanders' Turkish pages on Wikipedia.\
 Yks' suuri on Suomen valta!
 fin	1	GVos	
 fin	1	idle	
@@ -16838,6 +16892,7 @@ fra	5	andree
 fra	5	Anfasa	
 fra	5	angele38	
 fra	5	anino	
+fra	5	Annickprof	
 fra	5	antoine311200	
 fra	5	antoineleclair	Canadian French (province of Quebec)
 fra	5	aperitero	
@@ -17000,6 +17055,7 @@ fra	5	eliad_erazim
 fra	5	elisabethhamylachner	
 fra	5	EliseeR	
 fra	5	elisweet	
+fra	5	Elliv	
 fra	5	Ellya	
 fra	5	elviji	
 fra	5	emer1ca	
@@ -17195,6 +17251,7 @@ fra	5	kofteskimo
 fra	5	kokliko	
 fra	5	Komorebi	
 fra	5	Konall	
+fra	5	kopplex	
 fra	5	Korekorin	
 fra	5	Korody	
 fra	5	Korydween	
@@ -17264,6 +17321,7 @@ fra	5	magneto2a
 fra	5	Maissa	
 fra	5	Makushiro	
 fra	5	Malape	
+fra	5	malekkarchaoui	
 fra	5	Malik	
 fra	5	malmst1	
 fra	5	Mamadou91	
@@ -17580,6 +17638,7 @@ fra	5	User86907
 fra	5	Valentine	
 fra	5	valer_o	
 fra	5	VALERIEparle	
+fra	5	valhentai	
 fra	5	vandpatr	
 fra	5	Vanessadefrance	
 fra	5	Vaz	
@@ -18419,6 +18478,7 @@ fra	2	hinotorihime
 fra	2	hko	
 fra	2	honeygod	
 fra	2	horsan	
+fra	2	Hugh16	
 fra	2	HughNorris	
 fra	2	hunpirit	
 fra	2	hzy980512	
@@ -18499,6 +18559,7 @@ fra	2	Lautarox
 fra	2	Lazovic	
 fra	2	lentlby	
 fra	2	LesGodfrey	
+fra	2	LiborSupcik	
 fra	2	lionne6	
 fra	2	LiQian	
 fra	2	lleere	
@@ -19161,6 +19222,7 @@ fra	1	sxhdhmnc
 fra	1	Szappan7	
 fra	1	T_S_A_CHUI	
 fra	1	tah0mie	
+fra	1	Tamara_eM	
 fra	1	tamesz	Just started learning french 2 months ago and this is my current project. I would say with grammer/rules/vocab I am at an intermediate level but my speech is lacking.
 fra	1	taranbo	
 fra	1	tardisgirl	
@@ -19288,6 +19350,7 @@ fra	0	nightpoetry
 fra	0	olivera	
 fra	0	Orel	
 fra	0	oscarmilenio93	
+fra	0	Pandaa	0
 fra	0	Pauline	
 fra	0	paulwuertz	
 fra	0	PolmnAcorn	
@@ -19319,6 +19382,7 @@ fra	0	xylopoppo	Studied it in highschool
 fra	0	Yockson	
 fra	\N	abdullahkasit	
 fra	\N	ademadem	
+fra	\N	adl	
 fra	\N	Aissimahfoud06	
 fra	\N	al_ex_an_der	Ma connaissance de la langue française est malheureusement seulement passive.\
 
@@ -19363,12 +19427,12 @@ fra	\N	nathamruc
 fra	\N	not_yet	
 fra	\N	P24L	
 fra	\N	painx111	
-fra	\N	Pandaa	0
 fra	\N	patricedenis	
 fra	\N	pseudocreobot	
 fra	\N	rmateo	
 fra	\N	Scandia	
 fra	\N	seveleu_dubrovnik	
+fra	\N	Slaker	
 fra	\N	Svalbard	
 fra	\N	Tawetzilt	
 fra	\N	tuvecino	
@@ -19403,6 +19467,7 @@ gag	3	diluzmani
 gag	3	tuo	
 gag	3	Uzosis	
 gag	2	oguzosis	
+gag	\N	Conlanger	
 gan	5	huangtatoeba	
 gan	5	Zzengfbo	
 gan	2	Rebuson	
@@ -19474,7 +19539,6 @@ gle	2	StrugglingToFrench
 gle	2	zzxjoanw	GCSE level
 gle	1	andi2911	
 gle	1	AnnieLouisa	
-gle	1	azraelgnosis	
 gle	1	Chromosome	
 gle	1	Cxom	
 gle	1	DetErMinNavn	
@@ -19489,6 +19553,7 @@ gle	1	radubradu
 gle	1	rains_and_shadows	
 gle	1	Ricardo14	
 gle	1	Rwmpelstilzchen	
+gle	0	azraelgnosis	
 gle	0	gmed	
 gle	0	gorkaazk	
 gle	0	katidino	
@@ -19623,7 +19688,6 @@ grn	1	Sirimiri1	Paraguayan
 grn	1	ziba	
 grn	0	Ensjo	
 grn	0	harvzs	
-grn	0	nonong	
 grn	\N	Facundo	
 grn	\N	mr_vile	
 gsw	5	AfroGorgonzola	
@@ -20065,6 +20129,7 @@ hin	2	busareddy
 hin	2	Chackoony	
 hin	2	desk	
 hin	2	IAteYourCookies	
+hin	2	jyostna	
 hin	2	kopolov	
 hin	2	MESCO	india
 hin	2	negativeclock	
@@ -20170,6 +20235,7 @@ hrv	5	rainingdeer
 hrv	5	rsimic	
 hrv	5	Stanka	
 hrv	5	sutonoil	
+hrv	5	Tamara_eM	
 hrv	5	The_Beholder	
 hrv	5	vlado	
 hrv	5	ZETHorse	
@@ -20809,6 +20875,7 @@ hun	5	Ozeadr
 hun	5	palviktor	
 hun	5	Pandaa	
 hun	5	panni	
+hun	5	pantalaimon	
 hun	5	papppege	
 hun	5	Pasi	
 hun	5	pasztormesi	
@@ -20987,6 +21054,7 @@ hun	5	varlac
 hun	5	vasarely	
 hun	5	Vastoki	
 hun	5	vermarton	
+hun	5	vgabor	
 hun	5	vgray	My actual native language. Standard Hungarian / Budapest.
 hun	5	Vichy27	
 hun	5	VidraAkos	
@@ -21284,6 +21352,7 @@ ind	5	Althd
 ind	5	amael21	
 ind	5	amangimam	
 ind	5	AndriMarwanto	
+ind	5	anisahratikah	
 ind	5	anod	Actually my mother tongue is Minangkabau. A local language of west Sumatra, Indonesia. Bahasa is Indonesian's official language I grew up speaking it and I have native fluency in it.
 ind	5	Anothen	Formal/Sehari-hari
 ind	5	Archangelix	
@@ -21327,6 +21396,7 @@ ind	5	iqbalbasri
 ind	5	IvanD	Jawa Timur
 ind	5	jasaseo	
 ind	5	jatiardias	
+ind	5	Jepang	
 ind	5	jubil11	
 ind	5	Juna	
 ind	5	justhalf	
@@ -21402,7 +21472,6 @@ ind	2	Zurich899	Standard bahasa Indonesia, which I have been learning since I mo
 ind	1	Airvian	
 ind	1	Akira	
 ind	1	Albapi	
-ind	1	azraelgnosis	
 ind	1	chiu	
 ind	1	daveyg	
 ind	1	debilov	
@@ -21420,6 +21489,7 @@ ind	1	sharris123
 ind	1	Useibert	
 ind	1	vico	
 ind	1	Ziecken	
+ind	0	azraelgnosis	
 ind	0	Jamtin	
 ind	0	JasperPetronella	
 ind	0	Miznia	
@@ -21605,6 +21675,7 @@ ita	5	frankn
 ita	5	Fulvia	
 ita	5	furiop	
 ita	5	FusionF	
+ita	5	gabal72	
 ita	5	Galvaro	
 ita	5	gevero	
 ita	5	ggugliel	
@@ -22521,6 +22592,7 @@ jav	5	amangimam
 jav	5	c_dhani	
 jav	5	HAGNi	Mainly Surabayan Javanese
 jav	5	izdemoyz	
+jav	5	Jepang	Suroboyoan
 jav	5	Marohito	
 jav	5	menyo	
 jav	5	niyaachan	
@@ -22662,6 +22734,7 @@ jpn	5	daifons
 jpn	5	Daisaku_KUBO	
 jpn	5	Danamzdame	
 jpn	5	doanobu	
+jpn	5	e4zh1nmcz	
 jpn	5	egyjp	
 jpn	5	elisa__nakagawa	
 jpn	5	elison2019	
@@ -22779,6 +22852,7 @@ jpn	5	mishiki
 jpn	5	MiyaUna	
 jpn	5	Mizu	
 jpn	5	moch	
+jpn	5	mochico	
 jpn	5	moja_mojako	
 jpn	5	monsano	
 jpn	5	moto05260526	
@@ -22964,6 +23038,7 @@ jpn	4	Janalisa
 jpn	4	jaurk	人生最高の日になるかもしんない
 jpn	4	jawiegert	Lived in Japan during period 1970-1998. Married to and divorced from Japanese woman who spoke little English. Son's first language Japanese. Spoke Japanese at home and office daily. Continue to correspond with Japanese friends from Malta where I live now.
 jpn	4	jenny5752	Standard (Tokyo/Kantō) dialect​, with some fimiliarity of Kasai dialect.
+jpn	4	Jepang	
 jpn	4	joelparizi	
 jpn	4	Jose_sensei	
 jpn	4	jpegzilla	
@@ -23011,6 +23086,7 @@ jpn	4	tatp22
 jpn	4	Toffeenine	
 jpn	4	tokyojerry	Japan, standard Japanese （標準語）;  Majored in Japanese at University of Hawaii, graduated with B.A. in Japanese language studies.
 jpn	4	Tomatina	
+jpn	4	Trinkschokolade	
 jpn	4	tripbeetle	
 jpn	4	umidake	
 jpn	4	Urusai	
@@ -23037,6 +23113,7 @@ jpn	3	andresangelini
 jpn	3	Anna00	
 jpn	3	AnneWy	
 jpn	3	antoine311200	
+jpn	3	arcanewaif	
 jpn	3	arkumbra	
 jpn	3	aruhuredo	
 jpn	3	aslan	RUSTY - i was fluent but need to practice!
@@ -23137,6 +23214,7 @@ jpn	3	Kiraness
 jpn	3	Kiraness2	
 jpn	3	KonstantinLukas	日本語って、結構むずいね\
 勉強を始めてから数年が経ったのに、分からないことがまだあります。
+jpn	3	kopplex	
 jpn	3	kosame	
 jpn	3	kotik	
 jpn	3	koyakun	
@@ -23225,6 +23303,7 @@ jpn	3	sienijoonas	社会人３年目で、現在福岡でのウェブ制作企�
 jpn	3	Siganiv	
 jpn	3	sleepytroll	So far have spent 3-4 years studying and using the language, 10 months in Japan. 
 jpn	3	Smalde	
+jpn	3	Smorrs	
 jpn	3	sneeraj	
 jpn	3	SnowyDoll	
 jpn	3	sodajuice	
@@ -23237,6 +23316,7 @@ jpn	3	Sun
 jpn	3	Tadayoshi	
 jpn	3	tantry_pratiwi1609	
 jpn	3	tatostone	
+jpn	3	tcp7	
 jpn	3	teddo_kuruuzu	Studied at college level for more than four years, including training in Classical Japanese.
 jpn	3	TeddyBearWitch	
 jpn	3	tenshi16	
@@ -23248,7 +23328,6 @@ jpn	3	tmhood
 jpn	3	tokyomews	
 jpn	3	tommy_ashiq	
 jpn	3	torishima	
-jpn	3	Trinkschokolade	
 jpn	3	tutawomen	
 jpn	3	Urs	
 jpn	3	user0003	Foreign.  American.
@@ -23317,6 +23396,7 @@ jpn	2	Andregui2007
 jpn	2	andry_tino	
 jpn	2	angemon	
 jpn	2	aniksk	
+jpn	2	Anri	
 jpn	2	antilope	
 jpn	2	ao_tecnomac	
 jpn	2	arh	
@@ -24162,6 +24242,7 @@ jpn	1	feint
 jpn	1	ferbigode	
 jpn	1	FernandoMTz	
 jpn	1	Fhyarnir	
+jpn	1	filipe1238	
 jpn	1	FinGirl	
 jpn	1	firmian	
 jpn	1	fisju	
@@ -24818,6 +24899,7 @@ jpn	0	nikolaya
 jpn	0	Njord	
 jpn	0	Ofthefog	
 jpn	0	Omarsn4	
+jpn	0	Pandaa	0
 jpn	0	PauloMarchant	
 jpn	0	pdragiyski	
 jpn	0	piteo	
@@ -24871,6 +24953,7 @@ jpn	0	Yuzhin
 jpn	0	zetsubouchan	
 jpn	0	zivelasco	
 jpn	\N	\N	
+jpn	\N	adl	
 jpn	\N	ALLEN_2016	
 jpn	\N	aqaq	
 jpn	\N	boh	
@@ -24901,7 +24984,6 @@ jpn	\N	mr_vile
 jpn	\N	neilindraneel	
 jpn	\N	nonaka	
 jpn	\N	npes89033	
-jpn	\N	Pandaa	0
 jpn	\N	qularx	
 jpn	\N	sekai	
 jpn	\N	SilverBirdLV	
@@ -24922,6 +25004,7 @@ kaa	3	diluzmani
 kaa	3	tuo	
 kaa	2	Helenturk	
 kaa	1	Uzosis	
+kaa	\N	Conlanger	
 kab	5	Abdelhak_YAHIAOUI	
 kab	5	abdellizahir	
 kab	5	achka	
@@ -25009,6 +25092,7 @@ kab	5	kbaaziz
 kab	5	kbyl11	
 kab	5	Koceila	
 kab	5	KoceilaDRK	
+kab	5	kopplex	
 kab	5	LindaD	
 kab	5	Mabrouk87	
 kab	5	MAKFORZA	
@@ -25152,7 +25236,6 @@ kat	5	yurayurateikoku
 kat	4	diluzmani	
 kat	4	VITAE	
 kat	3	bolubeyi	
-kat	3	Conlanger	
 kat	3	Helenturk	
 kat	3	lovermann	
 kat	3	Sokario988	
@@ -25220,6 +25303,7 @@ kaz	0	Ricardo14
 kaz	0	rubinrot	Learning
 kaz	0	Taaha	
 kaz	\N	AqQoyriq_1	
+kaz	\N	Conlanger	
 kaz	\N	SadeceTurkce	
 kaz	\N	selimcan	
 kha	5	jefson08	
@@ -25265,6 +25349,7 @@ kir	1	shannonams
 kir	0	AhrorbekSoft	
 kir	0	DeSha	
 kir	0	rubinrot	Learning
+kir	\N	Conlanger	
 kir	\N	SadeceTurkce	
 kir	\N	yak	curious about sound - interested in audio
 kjh	5	gorgich	
@@ -25273,6 +25358,7 @@ kjh	2	dilogrencisi	Khakas is a language which I would love to improve my knowled
 kjh	2	Helenturk	
 kjh	2	tuo	
 kjh	\N	AqQoyriq_1	
+kjh	\N	Conlanger	
 koi	\N	astru	
 kor	5	2258302	
 kor	5	7plus7	
@@ -25604,6 +25690,7 @@ krc	2	Helenturk
 krc	2	tuo	
 krc	0	Arslan	
 krc	\N	AqQoyriq_1	
+krc	\N	Conlanger	
 krc	\N	yak	curious about sound - interested in audio
 krl	1	Thanuir	Osaan lukea suomen perusteella.
 krl	0	sikmir	
@@ -25620,6 +25707,7 @@ kum	2	tuo
 kum	1	Helenturk	
 kum	0	Arslan	
 kum	\N	AqQoyriq_1	
+kum	\N	Conlanger	
 kum	\N	yak	curious about sound - interested in audio
 kur	5	adam20	
 kur	5	adiibrahim	
@@ -25898,6 +25986,7 @@ lat	0	Kolpan
 lat	0	marafon	
 lat	0	marioo	
 lat	0	Marstell	
+lat	0	masgun13	
 lat	0	Matteo	
 lat	0	mendel	
 lat	0	miro	
@@ -26346,6 +26435,7 @@ nch	5	magicpp
 nch	1	Tatoebaz	Français
 nds	5	J5lx	
 nds	5	lisagroenhof	
+nds	5	Skaljas	Hamburg
 nds	4	Ealdwimor	
 nds	3	esocom	
 nds	3	UliDolbarge	Nördliches Ostfälisch (Northern Eastphalian)
@@ -26900,6 +26990,7 @@ nob	2	Pfirsichbaeumchen
 nob	2	pvcweb	
 nob	2	rmccar1	
 nob	2	scrowder	
+nob	2	Tamara_eM	
 nob	2	tinnatay	
 nob	2	vico	
 nob	2	yak	able to communicate traveller level in eastern pronunciation;\
@@ -26980,7 +27071,6 @@ nob	\N	kanlaon
 nob	\N	kippari	I'm able to read written Norwegian, as it is quite similiar to written Swedish.
 nob	\N	morbrorper	
 nob	\N	mr_vile	
-nob	\N	Pandaa	0
 nob	\N	shagadu	
 nob	\N	Svalbard	
 nog	3	dilogrencisi	I love Nogai <3 I've studied Nogai intensively before.
@@ -26996,6 +27086,7 @@ nog	2	tuo
 nog	1	tokipona	
 nog	0	Arslan	
 nog	\N	AqQoyriq_1	
+nog	\N	Conlanger	
 nog	\N	SadeceTurkce	
 nog	\N	yak	curious about sound - interested in audio
 non	5	Polygot99	Nineteenth language. After learning the Nynorsk dialect, I decided to return home to the USA.
@@ -27188,6 +27279,7 @@ pes	5	farzy
 pes	5	fat3me	
 pes	5	Fateme	
 pes	5	Fereidooni	
+pes	5	fkeyvan	
 pes	5	fluent1398	
 pes	5	ghassempour	
 pes	5	hadi_sadjad	
@@ -27332,7 +27424,6 @@ pes	3	Poliglotski
 pes	3	SadeceTurkce	My new language of study, starting from 2019. I've previously studied it intensively, but God knows.
 pes	2	934192903d	
 pes	2	benle	
-pes	2	Conlanger	
 pes	2	EoinJoss	من فارسی از افغانستان میخوانم.
 pes	2	erdeniz	
 pes	2	hdarjus	
@@ -27634,6 +27725,7 @@ pol	5	mysa
 pol	5	Narzew	
 pol	5	nautilius87	
 pol	5	nebby	
+pol	5	netsui	
 pol	5	Nokamala	
 pol	5	nrbartek	
 pol	5	nusia2302	
@@ -27814,6 +27906,7 @@ pol	2	kedemzm
 pol	2	kelebek	
 pol	2	kfb	
 pol	2	kibarfeyzo	
+pol	2	LiborSupcik	
 pol	2	ludoviko	
 pol	2	Lyte3000	
 pol	2	manese	
@@ -27949,6 +28042,7 @@ por	5	acdcjunior	Brazilian Portuguese
 por	5	adairjunior	
 por	5	ADELSON	
 por	5	Ademil	
+por	5	adl	
 por	5	Adriano1	
 por	5	AdrianoCosta	
 por	5	adrix	
@@ -28012,6 +28106,7 @@ por	5	andregustavoantunes
 por	5	andremachado	
 por	5	andrenpereira	
 por	5	AndrePaulo	
+por	5	AndyC	
 por	5	Angel1	
 por	5	Annanda	
 por	5	antena	
@@ -28221,6 +28316,7 @@ por	5	dhyll
 por	5	di745	
 por	5	Dian	
 por	5	Diego10	
+por	5	DiegoA	
 por	5	Diegoluiz	
 por	5	dieguin2017	
 por	5	diLesnock	
@@ -28328,6 +28424,7 @@ por	5	fhikuno
 por	5	Figueiracervo	
 por	5	figueiredoalex	
 por	5	Filipe	
+por	5	filipe1238	
 por	5	Filiperomao030303	
 por	5	Fizzar	
 por	5	Flavescit	
@@ -28570,6 +28667,7 @@ por	5	Juarez2322
 por	5	Jubal	
 por	5	julian_fellou	
 por	5	julianaalucena	
+por	5	julio_rocha5	
 por	5	jumarinho	
 por	5	Junio_Tiba	
 por	5	Juniorian	
@@ -28661,6 +28759,7 @@ por	5	LK	Portugal
 por	5	llenon	
 por	5	llucaspartacus	
 por	5	Lockhart	
+por	5	lohrrany	
 por	5	Lolo	
 por	5	Lopes1801	
 por	5	LordeGrimm	
@@ -28677,6 +28776,7 @@ por	5	Luaqrl
 por	5	luca22	Meu Português é Brasileiro do Estado de São Paulo, mais especificamente do interior. 
 por	5	Lucas_Arrighi	
 por	5	Lucas1919	
+por	5	Lucas2210	
 por	5	LucasA	
 por	5	Lucasam	
 por	5	lucasdcs	
@@ -28725,6 +28825,7 @@ por	5	maily	Brazilian portuguese
 por	5	Mandioca	
 por	5	Mandrakke009	
 por	5	mandx	
+por	5	Manezoid_PQP	
 por	5	mannubeyhive	
 por	5	ManoloFodovisk	
 por	5	manuquadros	Southern Brazilian Portuguese
@@ -29072,6 +29173,7 @@ por	5	Romano167
 por	5	RoneiNascimentoCampo	
 por	5	Roniel	
 por	5	rotimox	
+por	5	rpjoao	
 por	5	rralpha	
 por	5	rsilvape	
 por	5	Ruhz	Brasil
@@ -29540,6 +29642,7 @@ por	2	kulio
 por	2	lapinhibou	
 por	2	Lebensfreude	
 por	2	leitogaitan	
+por	2	LiborSupcik	
 por	2	ludoviko	
 por	2	Luiskobashi	
 por	2	m0440_	Brasileño
@@ -29697,6 +29800,7 @@ por	1	Silvanka
 por	1	Sisyphe	
 por	1	Sisyphe_heureux	
 por	1	SJPotter	Portugal
+por	1	Smorrs	Brazil
 por	1	Spodnie	
 por	1	Strompf	
 por	1	thak123	Brazil
@@ -29738,6 +29842,7 @@ por	0	Mjam
 por	0	npvojtik	
 por	0	Objectivesea	
 por	0	OlgaMarianna	
+por	0	Pandaa	1
 por	0	saulep	
 por	0	shekitten	
 por	0	smehenni	
@@ -29757,7 +29862,6 @@ por	\N	mistyhands
 por	\N	mr_vile	
 por	\N	NatHawk	
 por	\N	odexed	Brazilian Portuguese
-por	\N	Pandaa	1
 por	\N	PERCE_NEIGE	
 por	\N	rayshih715	
 por	\N	rogenialima	
@@ -29792,7 +29896,6 @@ que	2	diegohn
 que	2	Juanpa	Unified Kichwa from Ecuador
 que	2	paulosilas	
 que	1	davidtrembla	
-que	0	nonong	
 que	0	profesor	
 que	0	rafaujo	
 que	0	Rockaround	Learning. I will add some sentence read on serious references. I will not create mine.
@@ -30097,6 +30200,7 @@ rus	5	AnnaMoskalenko
 rus	5	AnnaSagandykova	
 rus	5	AnnaV	
 rus	5	AnnFiska	
+rus	5	AnnieStone	
 rus	5	Annmalafey	
 rus	5	Annushka	Native language. 
 rus	5	Anpil	
@@ -31358,6 +31462,7 @@ rus	4	JonLDS
 rus	4	kamshat	
 rus	4	khe	
 rus	4	kikydgiro	
+rus	4	LiborSupcik	
 rus	4	Maksimus	
 rus	4	MaryJ	
 rus	4	mergen_Annaseyidov_	
@@ -31420,7 +31525,6 @@ rus	3	Brad1
 rus	3	brynguist	
 rus	3	clarimariath	
 rus	3	collinssuarez	
-rus	3	Conlanger	
 rus	3	cps	
 rus	3	Dani6187	
 rus	3	debilov	
@@ -31762,6 +31866,7 @@ rus	1	deathpulse42
 rus	1	deiki	
 rus	1	denizs2209	
 rus	1	DetErMinNavn	
+rus	1	diegoacc	
 rus	1	diltat	
 rus	1	dirkz	
 rus	1	DragonM	
@@ -31794,8 +31899,7 @@ rus	1	GinaAxella	Just began this year.
 rus	1	Gleisy	
 rus	1	gmoura96	
 rus	1	GNDGN	
-rus	1	Gulo_Luscus	Started to learn in August of 2018, I have been memorizing a word each day and trying to deal with padejs. I am in communication with Russian natives as of late 2018 and trying to improve my listening skills since then. The Russian cursive still kills me(\
-There were hard times when I was interested in gopnik culture and slang. Well, such is life with Slavs around  ¯\\_(ツ)_/¯
+rus	1	Gulo_Luscus	Started to learn in August of 2018, I have been memorizing a word each day and trying to deal with padejs. I am in communication with Russian natives as of late 2018 and trying to improve my listening skills since then.
 rus	1	guryushika	
 rus	1	gyloosh	
 rus	1	Hagensbarn	
@@ -32095,6 +32199,7 @@ sah	1	Helenturk
 sah	0	Gezeit	
 sah	0	turan	
 sah	\N	AqQoyriq_1	
+sah	\N	Conlanger	
 san	3	yak	M.A. (and unfinished PhD) in Sanskrit  philology
 san	2	ameya	Can understand most of the sentences, but can't speak.
 san	2	Kazuko	
@@ -32167,6 +32272,7 @@ slk	5	eerie_ghoul
 slk	5	Evie	I am from Slovakia
 slk	5	juda1959	
 slk	5	Legna	
+slk	5	LiborSupcik	
 slk	5	miro	
 slk	5	nullptr	
 slk	5	saluzi	
@@ -32271,7 +32377,6 @@ slv	1	TheNightAvl
 slv	1	ThomasFAustria	Interesting language, but hard to learn. Started 6/2016.
 slv	0	Ferchus	
 slv	0	suzuran	
-slv	\N	Conlanger	
 slv	\N	horsan	
 slv	\N	Ricardo14	
 slv	\N	SadeceTurkce	
@@ -32540,6 +32645,7 @@ spa	5	dfrankmv
 spa	5	DianaFC	
 spa	5	Didier08	
 spa	5	diego2k11	
+spa	5	diegoacc	
 spa	5	diegocas33	Argentinian Spanish
 spa	5	DiegoGamer101	
 spa	5	diegohn	
@@ -32574,6 +32680,7 @@ spa	5	ekbruliganto	Desde la cuna, pero en general lo hablo solo entre familia.
 spa	5	elamigo8	
 spa	5	Eledefe	Español del norte argentino
 spa	5	EleGil	
+spa	5	Elfa1959	Mexico
 spa	5	EliFerrando	Chile, América Latina
 spa	5	elikesprogramming	Bogotá, Colombia, donde dicen se habla el mejor español del mundo
 spa	5	ELJose	
@@ -32957,6 +33064,7 @@ spa	5	mrobergl
 spa	5	msjvenegas	
 spa	5	Mueranse_Todos	
 spa	5	muerte1234	
+spa	5	murzuas	
 spa	5	muycontento	
 spa	5	N3150	
 spa	5	nachocab	
@@ -33311,6 +33419,7 @@ spa	4	LaghmanC
 spa	4	Lat1n	
 spa	4	Lebensfreude	
 spa	4	Leolivepk	
+spa	4	LiborSupcik	
 spa	4	LieveVanDenBosch	
 spa	4	ludtaylor	
 spa	4	LukuTesau	United States dialect, Guatemalan accent.
@@ -33645,6 +33754,7 @@ spa	3	Sicaria	Castellano from the northern parts of Spain
 spa	3	Siempremesientobien	
 spa	3	Sirimiri	
 spa	3	Sirimiri1	
+spa	3	Smorrs	
 spa	3	soapdroid	
 spa	3	sodajuice	
 spa	3	solor	
@@ -34175,6 +34285,7 @@ spa	2	Susana	Mexican spanish
 spa	2	svhschinese	
 spa	2	Swedishgermanophile	
 spa	2	SzaboZ	
+spa	2	Tamara_eM	
 spa	2	tamesz	I used to be nearly fluent but over time of not practising enough and learning french I have forgotten quite a lot. 
 spa	2	Taner	
 spa	2	Teel	European Spanish
@@ -34256,7 +34367,6 @@ spa	1	Akira	Argentina
 spa	1	al_ex_an_der	Por favor, no dude en ponerse en contacto conmigo en español.
 spa	1	AlbadeG	
 spa	1	Aleksandro40	
-spa	1	Aleksej	
 spa	1	alexsxd7	Latin American
 spa	1	Algentem	
 spa	1	allee	
@@ -34363,6 +34473,7 @@ spa	1	gamzeogl
 spa	1	gargabeshamel	
 spa	1	gege_veggie	
 spa	1	ghobIn	
+spa	1	Ghost4Man	
 spa	1	gillux	
 spa	1	glavkos	
 spa	1	Globetrotter	
@@ -34774,6 +34885,7 @@ spa	0	nightpoetry
 spa	0	nimfeo	Neniam studata, sed parte komprenata pro parenceco al la franca
 spa	0	Noel38	
 spa	0	Objectivesea	
+spa	0	Pandaa	1
 spa	0	PokeGamers	
 spa	0	raimonti	
 spa	0	shmo	Took four years of this in highschool.
@@ -34812,6 +34924,7 @@ spa	\N	Barbiena
 spa	\N	bokettoSidd	
 spa	\N	brilog	
 spa	\N	BW	
+spa	\N	Capistrano	
 spa	\N	Castro5432	
 spa	\N	Craig1954	
 spa	\N	cykel	
@@ -34848,7 +34961,6 @@ spa	\N	Montoya
 spa	\N	mr_vile	
 spa	\N	mrtaistoi	
 spa	\N	neddy	
-spa	\N	Pandaa	1
 spa	\N	panni	
 spa	\N	paperplane	
 spa	\N	Pino	
@@ -34943,6 +35055,7 @@ srp	5	septemberrr
 srp	5	Serbov	
 srp	5	serwatcher	
 srp	5	Sladja93	
+srp	5	Tamara_eM	
 srp	5	vakilee	
 srp	5	violeta	
 srp	5	Vldmr5	
@@ -34999,6 +35112,7 @@ sux	1	LukuTesau
 sux	1	morel	
 sux	\N	cueyayotl	
 sux	\N	Ricardo14	
+swe	5	Airou	
 swe	5	ajje	
 swe	5	ajonsson	
 swe	5	Alexini	
@@ -35309,6 +35423,7 @@ swe	1	Lebad
 swe	1	LinguisticFusion	A0~A1
 swe	1	marcelostockle	
 swe	1	Marit207	
+swe	1	masgun13	
 swe	1	Melvin05	
 swe	1	mikhaelhack	
 swe	1	miro	
@@ -35369,6 +35484,7 @@ swe	0	altfell
 swe	0	cesare	
 swe	0	cykel	
 swe	0	DomitillaMaria	
+swe	0	Ghost4Man	
 swe	0	glxnull	
 swe	0	Hans_Adler	
 swe	0	Hivalnid	
@@ -35381,13 +35497,13 @@ swe	0	LeFaune	Watching SVT helps!
 swe	0	lily8110	
 swe	0	lmystique	
 swe	0	marafon	
-swe	0	masgun13	
 swe	0	meirad	
 swe	0	miguelkf	
 swe	0	monney30P	
 swe	0	mschmid	
 swe	0	NBeknel	
 swe	0	nikans	
+swe	0	Pandaa	0
 swe	0	pekerappo	
 swe	0	punkAtena	
 swe	0	quarteris	
@@ -35404,7 +35520,6 @@ swe	\N	Almi92
 swe	\N	aqaq	
 swe	\N	FA4	
 swe	\N	Ivanovb	
-swe	\N	Pandaa	0
 swe	\N	rayshih715	
 swe	\N	Rwmpelstilzchen	
 swe	\N	Svalbard	
@@ -35536,6 +35651,7 @@ tat	0	Evgeny
 tat	0	Farit	
 tat	0	helirich	
 tat	\N	Balamax	
+tat	\N	Conlanger	
 tat	\N	FA4	
 tat	\N	Monk	
 tat	\N	SadeceTurkce	
@@ -35549,6 +35665,7 @@ tel	5	dskishore
 tel	5	durga	
 tel	5	evadasari	
 tel	5	hareesh	
+tel	5	jyostna	
 tel	5	LakshmiChaitanyaChai	
 tel	5	Maheshpawar	
 tel	5	manish123	India
@@ -35808,6 +35925,7 @@ toki	4	thechuff
 toki	4	WhileTrue	
 toki	3	bryantjknight	
 toki	3	cai_lw	
+toki	3	FluxDGTL01	I use ali instead of ale
 toki	3	jan_nule	
 toki	3	janAetherStar	
 toki	3	jansegers	My favorite conlang ...
@@ -35870,6 +35988,7 @@ toki	1	Tjagotje
 toki	1	uxintro	
 toki	1	Vortarulo	mi toki lili e toki pona. tenpo kama la mi wile e ni: mi kama sona mute e toki ni.
 toki	1	zvx	
+toki	0	Elfa1959	
 toki	0	esperantiso	
 toki	0	JasperPetronella	
 toki	0	JohanoPolo	
@@ -35975,6 +36094,7 @@ tuk	1	vqmalic
 tuk	0	AhrorbekSoft	
 tuk	0	Arslan	
 tuk	0	harvzs	
+tuk	\N	Conlanger	
 tuk	\N	FA4	
 tur	5	\N	
 tur	5	123	
@@ -36968,6 +37088,7 @@ tur	5	sinanberdan1
 tur	5	sinanbilek	My native language is Turkish
 tur	5	sinankadim	
 tur	5	sinanz	
+tur	5	sinem	
 tur	5	sinirliadam	
 tur	5	sinyorita	
 tur	5	six	
@@ -37421,6 +37542,7 @@ tur	1	drfaiselabo1961
 tur	1	DuosDragonPolyglot	
 tur	1	Edith	
 tur	1	Eldad	
+tur	1	Elfa1959	
 tur	1	elisei	
 tur	1	fekundulo	
 tur	1	fulfom	
@@ -37551,6 +37673,7 @@ tur	0	mjspice
 tur	0	mollyblair	
 tur	0	morel	
 tur	0	OlgaMarianna	
+tur	0	Pandaa	0
 tur	0	rccg	
 tur	0	rhuman	
 tur	0	Sljam	
@@ -37575,7 +37698,6 @@ tur	\N	Max_San
 tur	\N	mhsary	
 tur	\N	Michael123	
 tur	\N	mr_vile	
-tur	\N	Pandaa	0
 tur	\N	RidvanP	
 tur	\N	SpokenTurkish	
 tur	\N	ttboy3	
@@ -37585,6 +37707,7 @@ tyv	3	diluzmani
 tyv	2	dilogrencisi	Tuvinian interests me because it's a Turkic language and I love their throat singing.
 tyv	2	Helenturk	
 tyv	2	tuo	
+tyv	\N	Conlanger	
 tyv	\N	yak	curious about sound - interested in audio
 tzl	1	shekitten	
 tzl	\N	cueyayotl	
@@ -37622,6 +37745,7 @@ uig	1	notabene
 uig	0	Morkus	
 uig	0	rubinrot	Learning
 uig	\N	AhrorbekSoft	
+uig	\N	Conlanger	
 ukr	5	0954425256	
 ukr	5	6374m0th	
 ukr	5	7mjay	
@@ -37691,6 +37815,7 @@ ukr	5	Julianushka
 ukr	5	Julija	
 ukr	5	Julika	
 ukr	5	Kawada	
+ukr	5	kevinjohnson	
 ukr	5	killya	
 ukr	5	kitten1110	
 ukr	5	ks	
@@ -37828,6 +37953,7 @@ ukr	4	vmel
 ukr	4	Werther	
 ukr	4	Zulu	
 ukr	3	ABChessel	
+ukr	3	AnnieStone	
 ukr	3	anton__v	
 ukr	3	archi1995	
 ukr	3	Balamax	
@@ -37916,6 +38042,7 @@ urd	5	abdul_rehman_2050
 urd	5	actualtp	
 urd	5	adnan_tipu	
 urd	5	adnanmukhtar	
+urd	5	aliraja	
 urd	5	atta	
 urd	5	basim14	Pakistan
 urd	5	FakharShafi	
@@ -37983,6 +38110,7 @@ uzb	5	abdurazakova
 uzb	5	Adam007	
 uzb	5	AhrorbekSoft	
 uzb	5	diyu	
+uzb	5	Farhod	
 uzb	5	Ixlosiddin	
 uzb	5	jamshidsaipov	
 uzb	5	JaxongirK	
@@ -38018,6 +38146,7 @@ uzb	0	Arslan
 uzb	0	DeSha	
 uzb	0	Ricardo14	
 uzb	0	Taaha	
+uzb	\N	Conlanger	
 uzb	\N	Leolaaziano	Greeting level, taught by friend.
 vec	5	stefanocesme	Vicensa
 vec	5	trinhnguyen	
@@ -38194,6 +38323,7 @@ vie	1	renwick539
 vie	1	richke	
 vie	1	Sharaf78	
 vie	1	sharris123	
+vie	1	Smorrs	
 vie	1	SpenDM	
 vie	1	TRANG	
 vie	1	Vortarulo	Tôi đang học tiếng Việt, nhưng chưa nói giỏi được...
