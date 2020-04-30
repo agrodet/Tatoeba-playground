@@ -10,6 +10,14 @@ The environment is interactive. This means that you can run, modify, or add any 
 
 If you're new to Tatoeba playground or to Jupyter notebooks, open any of the notebooks (the `.ipynb` files), and follow the explanations.
 
+## Using it locally
+If you would like to use Tatoeba playground in your local environment, follow these steps.
+
+1. First of all, you need [Python 3](https://www.python.org/downloads/) on your machine. If you use Python for other projects, it is recommended to use [virtual environments](https://docs.python.org/3/tutorial/venv.html).
+2. Make sure you can run [Jupyter notebooks](https://jupyter.org/). The simplest way to install these is described in the [installation guide](https://jupyter.org/install.html).
+3. Clone or download this repository. 
+4. Execute `pip install -r requirements.txt` (from inside the project folder) to install necessary packages.
+
 ## FAQ
 ### Can I use the playground if I don't have any programming knowledge?
 Yes. No programming knowledge is required to use the default playground. Everything is explained inside each notebook so one just has to follow the instructions. Python knowledge is only required for users who want to tune the notebooks to fit their needs more precisely.
